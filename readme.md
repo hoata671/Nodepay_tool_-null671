@@ -1,6 +1,11 @@
 # Nodepay Network Bot
 
-## Telegram: @null671
+## Contact me:
+```
+   Telegram: https://t.me/null671
+   Join Grass: https://app.getgrass.io/register/?referralCode=ssMIrLbjhT-OJAZ
+   Proxy + tool: 50 Proxies for only $10
+```
 
 ## Description
 This script automates network or node operations for Nodepay Network.
